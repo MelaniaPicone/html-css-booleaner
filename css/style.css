@@ -1,13 +1,14 @@
 body {
   position: center;
   margin: 0 auto;
-  width: 900px;
+  max-width: 1010px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1 {
   font-size: 35px;
   font-weight: 600;
+  margin-bottom: 0px;
 }
 
 
@@ -25,8 +26,8 @@ h1 {
   width: 200px;
 }
 
+
 .item-box .second-title {
-  margin-top: -20px;
   font-size: 15px;
   font-weight: bold;
   color: #b0b0b0;
@@ -40,20 +41,4 @@ h1 {
   font-size: 11px;
   font-weight: bold;
   color: #b0b0b0;
-}
-
-.item-box .first-img {
-  background-image: url(/img/tim-1.jpg);
-  width: 500px;
-  height: 300px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.item-box .second-img {
-  background-image: url(/img/tim-2.jpg);
-  width: 500px;
-  height: 300px;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
