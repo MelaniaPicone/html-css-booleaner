@@ -1,3 +1,15 @@
 body {
   margin: 0px;
 }
+
+#main-box {
+  height: 130px;
+  background-image: url(/img/pattern.png);
+  background-color: #4EA1FF;
+  background-size: 33%;
+}
+
+#main-box img {
+  margin-top: 70px;
+  width: 220px;
+}
