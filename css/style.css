@@ -11,7 +11,34 @@ h1 {
   margin-bottom: 0px;
 }
 
+h2 {
+  font-size: 20px;
+  color: #b0b0b0;
+}
 
+span {
+  font-size: 11px;
+}
+
+.second-title b {
+  color: #4EA1FF;
+}
+
+xx {
+  background-color: yellow;
+}
+
+table {
+  width: 1010px;
+}
+
+th {
+  width: 200px;
+}
+
+p {
+  text-align: justify;
+}
 
 #main-box {
   height: 100px;
@@ -39,26 +66,20 @@ h1 {
   color: #b0b0b0;
 }
 
-span {
-  font-size: 11px;
+.photo {
+  background-image: url(/img/monitor.jpg);
+  width: 300px;
+  height: 200px;
+  font-size: 2em;
+  color: #b0b0b0;
+  text-align: center;
 }
 
-.second-title b {
-  color: #4EA1FF;
-}
-
-xx {
-  background-color: yellow;
-}
-
-table {
-  width: 1010px;
-}
-
-th {
-  width: 200px;
-}
-
-p {
-  text-align: justify;
+.graph {
+  background-image: url(/img/graph.jpg);
+  width: 300px;
+  height: 200px;
+  font-size: 2em;
+  color: #b0b0b0;
+  text-align: center;
 }
