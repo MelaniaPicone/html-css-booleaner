@@ -33,12 +33,32 @@ h1 {
   color: #b0b0b0;
 }
 
+.item-box .date-title {
+  font-size: 10px;
+  font-weight: bold;
+  color: #b0b0b0;
+}
+
+span {
+  font-size: 11px;
+}
+
 .second-title b {
   color: #4EA1FF;
 }
 
-.item-box .date-title {
-  font-size: 11px;
-  font-weight: bold;
-  color: #b0b0b0;
+xx {
+  background-color: yellow;
+}
+
+table {
+  width: 1010px;
+}
+
+th {
+  width: 200px;
+}
+
+p {
+  text-align: justify;
 }
